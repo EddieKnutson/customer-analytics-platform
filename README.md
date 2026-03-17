@@ -3,7 +3,7 @@
 A full-stack analytics portfolio project built on the UCI Online Retail dataset
 (~500K transactions, UK-based e-commerce retailer, 2010–2011).
 
-**[Live Demo →](https://your-app.streamlit.app)**  *(deploy to update this link)*
+**[Live Demo →](https://customer-analytics-platform-cmcent8tnrbscecdizu42i.streamlit.app)**
 
 ---
 
