@@ -1,0 +1,10 @@
+pandas>=2.2.3
+numpy>=2.0
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+openpyxl>=3.1
+scikit-learn>=1.4
+scipy>=1.13
+streamlit>=1.35
+plotly>=5.22
+matplotlib>=3.9

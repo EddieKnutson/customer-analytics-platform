@@ -1,0 +1,23 @@
+# Raw dataset — too large and re-downloadable
+data/online_retail.xlsx
+
+# Elbow/clustering plots (generated at runtime)
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/*.ipynb
+
+# Virtual environments
+venv/
+.venv/
+env/
