@@ -21,3 +21,6 @@ notebooks/*.ipynb
 venv/
 .venv/
 env/
+
+# Claude Code
+.claude/

@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(conda run:*)",
-      "Bash(pg_lsclusters)",
-      "Read(//private/tmp/**)"
-    ]
-  }
-}
